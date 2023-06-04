@@ -1,0 +1,128 @@
+.p1{
+    border: solid ; 
+    background-color: rgb(205, 205, 221);
+    margin: 25px;
+    padding: 10px;
+    border-radius: 8px;
+    border-color: rgb(205, 205, 221) ;
+    text-align: center;
+}
+.p2{
+    border: solid ; 
+    background:#d4edda;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 8px;
+    border-color:#d4edda ;
+    color: #155724;
+    text-align: center;
+}
+.p3{
+    border: solid ; 
+    background:#f8d7da;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 8px;
+    border-color:#f8d7da ;
+    color: #721c24;
+    text-align: center;
+}
+.p4{
+    border: solid ; 
+    background:#fff3cd;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 8px;
+    border-color:#fff3cd ;
+    color: #856404;
+    text-align: center;
+}
+.p5{
+    border: solid ; 
+    background:#d6d8d9;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 8px;
+    border-color:#d6d8d9 ;
+    color: #1b1e21;
+    text-align: center;
+}
+.b1{
+    margin: 12px;
+    padding: 15px;
+    background-color: #007bff;
+    border: #007bff;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+
+    
+}
+.b2{
+    margin: 12px;
+    padding: 15px;
+    background-color: #28a745;
+    border: #007bff;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+
+    
+}
+.b3{
+    margin: 12px;
+    padding: 15px;
+    background-color: #dc3545;
+    border: #007bff;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+
+    
+}
+.b4{
+    margin: 12px;
+    padding: 15px;
+    background-color: #ffc107;
+    border: #007bff;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+
+    
+}
+.b5{
+    margin: 12px;
+    padding: 15px;
+    background-color: #343a40;
+    border: #007bff;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+
+    
+}
+div{
+    text-align: center;
+}
+.c1{
+    background-color: yellow;
+    height: 220px;
+   width: 800px;
+   
+}
+.c2{
+    background-color: #003893;    ;
+    height: 90px;
+   width: 800px;
+   
+}
+.c3{
+    background-color: #CE1126;    
+    height: 90px;
+   width: 800px;
+   
+}
+h1{
+    text-align: center;
+}
